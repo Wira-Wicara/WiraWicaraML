@@ -1,7 +1,10 @@
 ### Machine Learning for Level X
 *Made by [Muhammad Farhan Adeva]*
 
-#### Model: namefile.tflite
+#### Model: siamese_model_lv2.tflite
+
+  Download : https://drive.google.com/file/d/1M5lOsxp1LKu9IIv3kQIR7J_GJ01r5Lsv/view?usp=sharing
+
 Threshold Percentage: 80%
 
 #### Sub-level
